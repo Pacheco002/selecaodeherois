@@ -1,0 +1,38 @@
+body {
+    color: black;
+    margin: 0;
+    background-image: url(https://sm.ign.com/ign_br/screenshot/default/sans-titre-1_tpwa.jpg);
+    }
+    fieldset{
+        border: 0cm;
+    }
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 48px;
+  }
+  table {
+    width: 15px;
+    margin-top: 10px;
+  }
+  td {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid;
+    margin: 10px;
+    margin-right: 10px;
+  }
+  img {
+    max-width: 100%;
+  }
+  div{
+width: 200px;
+height: 200px;
+}
+#th1{
+    color: blue;
+}
+button{
+    background-color: yellow;
+    color: darkviolet;
+}
